@@ -18,3 +18,6 @@
 - 델라
   - 2021-05-04
   - [[아티클럽] <더 나은 UX를 위한 React에서 스켈레톤 컴포넌트 만들기>을 읽고](https://blog.naver.com/diddnjs02/222338229212)
+- 용다
+  - 2021-05-05
+  - [[아티클럽] 더 나은 UX를 위한 React에서 스켈레톤 컴포넌트 만들기을 읽고](https://juyoungpark718.github.io/posts/139)
