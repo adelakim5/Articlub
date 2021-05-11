@@ -30,3 +30,6 @@
 - 델라
    - 2021-05-10
    - [[아티클럽]<React.memo() 현명하게 사용하기>를 읽고](https://blog.naver.com/diddnjs02/222345715688)
+- 용다
+  - 2021-05-12
+  - [[아티클럽]React.memo() 현명하게 사용하기를 읽고](https://juyoungpark718.github.io/posts/140)
