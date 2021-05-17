@@ -22,14 +22,26 @@
   - 2021-05-05
   - [[아티클럽] 더 나은 UX를 위한 React에서 스켈레톤 컴포넌트 만들기을 읽고](https://juyoungpark718.github.io/posts/139)
 
-
 ### React.memo() 현명하게 사용하기
 
 > [출처](https://ui.toast.com/weekly-pick/ko_20190731), TOAST UI
 
 - 델라
-   - 2021-05-10
-   - [[아티클럽]<React.memo() 현명하게 사용하기>를 읽고](https://blog.naver.com/diddnjs02/222345715688)
+  - 2021-05-10
+  - [[아티클럽]<React.memo() 현명하게 사용하기>를 읽고](https://blog.naver.com/diddnjs02/222345715688)
 - 용다
   - 2021-05-12
   - [[아티클럽]React.memo() 현명하게 사용하기를 읽고](https://juyoungpark718.github.io/posts/140)
+
+### 올해 버려야 할 타입스크립트 나쁜 버릇 10가지
+
+> [출처](https://ui.toast.com/weekly-pick/ko_20210217), TOAST UI
+
+- 델라
+
+  - 2021-05-17
+  - [[아티클럽]<올해 버려야 할 타입스크립트 나쁜 버릇 10가지>](https://blog.naver.com/diddnjs02/222355072957)
+
+- 용다
+  - 2021-05-17
+  - [[아티클럽]올해 버려야 할 타입스크립트 나쁜 버릇 10가지를 읽고](https://juyoungpark718.github.io/posts/142)
