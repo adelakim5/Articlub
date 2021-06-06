@@ -38,10 +38,8 @@
 > [출처](https://ui.toast.com/weekly-pick/ko_20210217), TOAST UI
 
 - 델라
-
   - 2021-05-17
   - [[아티클럽]<올해 버려야 할 타입스크립트 나쁜 버릇 10가지>](https://blog.naver.com/diddnjs02/222355072957)
-
 - 용다
   - 2021-05-17
   - [[아티클럽]올해 버려야 할 타입스크립트 나쁜 버릇 10가지를 읽고](https://juyoungpark718.github.io/posts/142)
